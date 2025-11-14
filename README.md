@@ -2,51 +2,49 @@
 
 <!-- Badges (Uncomment after deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/your-id-here/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys)
-![React](https://img.shields.io/badge/React-18.0-blue)
+![React](https://img.shields.io/badge/React-18-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/Arshk15/To-Do-App?style=social)
 -->
 
-A beautiful **React Todo Application** designed with a modern **glass-morphism theme**, smooth animations, and a clean user experience.
-Built to help users add, view, search, and delete tasks effortlessly.
+A modern **React Todo Application** featuring a sleek **glassmorphism UI**, animated gradients, and smooth interactive elements.
+Designed to make task management simple, clean, and visually appealing.
 
 ---
 
 ## 🚀 **Features**
 
-### ✅ **Core Features**
+### ✅ **Core Functionality**
 
 * Add new tasks
 * Delete existing tasks
-* View all todos in a clean layout
+* View all todos in a minimal and elegant layout
 
 ### ✨ **UI & Experience**
 
-* Modern **glassmorphism** styling
-* Animated gradient background
-* Smooth hover effects
-* Clean navbar with search bar
+* Clean **glassmorphism** design
+* Animated pastel blue gradient background
+* Smooth hover interactions
+* Modern navbar with search bar
 * Google Fonts integration
 
 ---
 
 ## 🖼️ **Screenshots**
 
-<img width="1906" height="737" alt="image" src="https://github.com/user-attachments/assets/569e4656-c382-485e-8a31-12cbf6162908" />
-<img width="1913" height="875" alt="image" src="https://github.com/user-attachments/assets/a30486dd-55df-47bb-9d99-d9f77cd54be5" />
-
-
+<img width="1906" height="737" src="https://github.com/user-attachments/assets/569e4656-c382-485e-8a31-12cbf6162908" />
+<img width="1913" height="875" src="https://github.com/user-attachments/assets/a30486dd-55df-47bb-9d99-d9f77cd54be5" />
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-| Technology              | Purpose              |
-| ----------------------- | -------------------- |
-| **React**               | UI & Component logic |
-| **CSS / Glassmorphism** | Styling              |
-| **JavaScript ES6+**     | Main scripting       |
-| **Bootstrap**           | Layout structure     |
+| Technology              | Purpose               |
+| ----------------------- | --------------------- |
+| **React**               | UI & state management |
+| **CSS / Glassmorphism** | Styling               |
+| **JavaScript (ES6+)**   | Logic                 |
+| **Bootstrap**           | Layout utility        |
 
 ---
 
@@ -87,7 +85,7 @@ git clone https://github.com/Arshk15/To-Do-App.git
 npm install
 ```
 
-### 3️⃣ Run the App
+### 3️⃣ Start the Development Server
 
 ```sh
 npm start
@@ -97,27 +95,25 @@ npm start
 
 ## 🌐 **Deployment (Optional)**
 
-You can deploy easily on:
+### **Deploy on Vercel**
 
-### **Vercel**
-
-```
+```sh
 vercel deploy
 ```
 
-### **Netlify**
+### **Deploy on Netlify**
 
-Just drag & drop your `build` folder into Netlify dashboard.
+Drag & drop the **build/** folder into the Netlify dashboard.
 
 ---
 
 ## 📝 **Future Improvements**
 
 * Dark mode
-* Search functionality
-* LocalStorage save
-* Animations on add/remove
-* Todo categories
+* Global search functionality
+* Save todos using LocalStorage
+* Animations for add/remove
+* Task categories or filters
 
 ---
 
@@ -129,7 +125,8 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ **Support the Project**
 
-If you liked it, consider starring the repo ⭐
-It helps keep the project growing!
+If you find this project helpful, please consider **starring the repository** ⭐
+Your support motivates further improvements!
 
----
+
+Just tell me!
