@@ -1,0 +1,93 @@
+.Addtodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.Addtodo input[type="text"]{
+    width: auto;
+    height: 40px;
+    padding: 6px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.SubmitBtn{
+    padding: 6px 12px;
+    margin-top: 0;
+    align-self: center;
+    height: 40px;
+    margin-left: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Main Headings (H1: Todos List, Add Todo, Todos List) */
+.glass-heading {
+  font-family: "Momo Signature", cursive;
+  font-size: 40px;
+  text-align: center;
+  color: #0d2a6d; /* deep blue */
+  
+  /* multi-layer soft outer glow */
+  text-shadow:
+    0 0 4px #ffffff,
+    0 0 8px #ffffff,
+    0 0 14px #ffffff,
+    0 0 22px rgba(255,255,255,0.9),
+    0 0 32px rgba(255,255,255,0.8);
+
+  animation: headingGlow 2.5s ease-in-out infinite;
+}
+
+@keyframes headingGlow {
+  0% {
+    text-shadow:
+      0 0 4px #ffffff,
+      0 0 8px #ffffff,
+      0 0 14px #ffffff,
+      0 0 22px rgba(255,255,255,0.8),
+      0 0 28px rgba(255,255,255,0.6);
+  }
+  50% {
+    text-shadow:
+      0 0 6px #ffffff,
+      0 0 12px #ffffff,
+      0 0 20px #ffffff,
+      0 0 30px rgba(255,255,255,1),
+      0 0 40px rgba(255,255,255,0.9);
+  }
+  100% {
+    text-shadow:
+      0 0 4px #ffffff,
+      0 0 8px #ffffff,
+      0 0 14px #ffffff,
+      0 0 22px rgba(255,255,255,0.8),
+      0 0 28px rgba(255,255,255,0.9);
+  }
+}
+
+/* Sub-headings (if you use h2) */
+.glass-subheading {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 1.8rem;
+  text-align: center;
+
+  background: linear-gradient(135deg, #375a9e, #6fa3ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  margin: 18px 0 12px 0;
+  letter-spacing: 0.6px;
+}
+
