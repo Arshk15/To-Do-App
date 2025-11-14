@@ -1,11 +1,3 @@
-Perfect — here is a **clean, modern, professional README.md** for your React Todo App.
-I wrote it in a way that you can **add badges later** (after deployment).
-For now, badges will be included but commented out so you can enable them anytime.
-
-You can copy-paste this directly into your `README.md` ✔
-
----
-
 # 📌 **Todo App – React + Glassmorphism UI**
 
 <!-- Badges (Uncomment after deployment)
