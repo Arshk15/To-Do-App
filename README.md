@@ -36,6 +36,9 @@ Designed to make task management simple, clean, and visually appealing.
 <img width="1913" height="875" src="https://github.com/user-attachments/assets/a30486dd-55df-47bb-9d99-d9f77cd54be5" />
 
 ---
+## 🔗 Live Demo  
+👉 https://arshk15.github.io/To-Do-App/#/
+---
 
 ## 🛠️ **Tech Stack**
 
